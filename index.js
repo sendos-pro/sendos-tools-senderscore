@@ -26,8 +26,6 @@ function queryFactory(ip, socket, opts) {
         let scrore = parseInt(res.answers[0].data.split(".")[3]);
         resolve(scrore);
         
-        return resolve(false);
-
       });
     });
   };

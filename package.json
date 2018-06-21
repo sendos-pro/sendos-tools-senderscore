@@ -3,14 +3,17 @@
     "name": "Adam Tutaev",
     "email": "a79313740346@yandex.ru"
   },
+  "bugs": {
+    "url": "https://github.com/sendos-pro/sendos-tools-senderscore/issues"
+  },
   "bundleDependencies": false,
-  "deprecated": false,
-  "description": "Desc",
   "dependencies": {
     "async": "^2.6.1",
     "dns-socket": "^4.0.0",
     "ip-ptr": "^2.0.0"
   },
+  "deprecated": false,
+  "description": "Desc",
   "homepage": "https://github.com/sendos-pro/sendos-tools-senderscore",
   "license": "MIT",
   "main": "index.js",
@@ -19,5 +22,5 @@
     "type": "git",
     "url": "git+https://github.com/sendos-pro/sendos-tools-senderscore.git"
   },
-  "version": "1.0.6"
+  "version": "1.0.7"
 }
